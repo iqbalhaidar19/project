@@ -72,6 +72,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 After the installation is complete, run the main script from the terminal:
 ```bash
 python data_processing_script.py
+```
 
-
+### Result
 After the script finishes running, a new file called Sales_Report.xlsx will be created in the project folder. This file contains the final results of the data processing.

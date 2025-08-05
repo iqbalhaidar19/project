@@ -52,6 +52,9 @@ Here's how to run this project on your local computer.
     # Create venv
  python -m venv venv
 
+    # If an error appears about Execution Policy
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
     # Activate on Windows
 .\venv\Scripts\activate
 

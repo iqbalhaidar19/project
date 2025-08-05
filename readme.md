@@ -4,6 +4,8 @@
 
 This project demonstrates the ability to clean, process, and analyze data using Python with the Pandas library. The script takes messy fictitious sales data in CSV format, systematically cleans it, enriches it with category data, performs some analysis, and generates a clean and professional multi-page Excel report, complete with summaries and graphs.
 
+---
+
 ## Main Features
 
 - **Comprehensive Data Cleaning:** Handles a variety of raw data issues such as duplicate data, inconsistent formats (date, invoice number), typos, capitalization, and missing values.
@@ -14,15 +16,19 @@ This project demonstrates the ability to clean, process, and analyze data using 
   - Sheet 2: Sales summary per category with visual graphs.
 - **Professional Presentation:** Apply Rupiah format (Rp#,##0) to the currency column in the output Excel file for easy reading.
 
+---
+
 ## Project Folder Structure
 
 .
-├── .gitignore              # Files to ignore unnecessary files/folders
-├── README.md               # This file you are reading
-├── data_processing_script.py # Python main script
-├── product_categories.csv    # Product category master data
-├── raw_sales_data.csv      # raw sales data
-└── requirements.txt        # List of required Python libraries
+├── .gitignore              # File untuk mengabaikan file/folder yang tidak perlu
+├── README.md               # File yang sedang Anda baca ini
+├── data_processing_script.py # Script utama Python
+├── product_categories.csv    # Data master kategori produk
+├── raw_sales_data.csv      # Data mentah penjualan yang berantakan
+└── requirements.txt        # Daftar library Python yang dibutuhkan
+
+---
 
 ## How to use
 
@@ -39,10 +45,10 @@ Here's how to run this project on your local computer.
  ```bash
  git clone [https://github.com/iqbalhaidar19/python-sales-analysis.git](https://github.com/iqbalhaidar19/python-sales-analysis.git)
  cd python-sales-analysis
- ````
+ ```
 
 2.  **Create and activate a virtual environment:**
- ``bash
+ ```bash
     # Create venv
  python -m venv venv
 
@@ -54,7 +60,7 @@ Here's how to run this project on your local computer.
  ```
 
 3.  **Install all required libraries:**
- ``bash
+```bash
  pip install -r requirements.txt
  ```
 

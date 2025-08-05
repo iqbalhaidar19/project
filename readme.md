@@ -43,7 +43,7 @@ Here's how to run this project on your local computer.
 
 1.  **Clone this repository:**
  ```bash
- git clone (https://github.com/iqbalhaidar19/project.git)
+ git clone https://github.com/iqbalhaidar19/project.git
  cd project
  ```
 

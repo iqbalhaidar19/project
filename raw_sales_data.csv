@@ -1,0 +1,104 @@
+No. Invoice,Tanggal Transaksi,Nama Pelanggan,Nama Produk,Jumlah,Harga Satuan,Status Pembayaran
+INV/2024/001,08/01/2024,budi santoso,Laptp Gaming,1,Rp 15.000.000,LUNAS
+inv-2024-002,08/02/2024,SITI AMINAH,Mouse wireless,2,Rp 250.000,LUNAS
+2024/003,08/03/2024,"Andi Purnomo, S.Pd",keybord mechanical,1,1.200.000,Belum Lunas
+TRX-004,08/04/2024,dewi lestari,MONITOR LED 24 inch,1,Rp 2.500.000,Paid
+INV/2024/005,08/05/2024,Eko Prasetyo,Flashdisk 64GB,3,Rp 150000,lunas
+INV/2024/006,08/06/2024,Fajar Nugraha, Headset Gaming ,1,750000,Pending
+inv-2024-007,08/07/2024,grace tan,Webcam HD,1,Rp 850.000,completed
+2024/008,08/08/2024,Hendra Wijaya,,1,300000,Belum Lunas
+TRX-009,08/09/2024,irma sari,Printer All-in-One,1,Rp 3.100.000,LUNAS
+INV/2024/010,08/10/2024,Joko Susilo,Laptp Gaming,1,Rp 15.000.000,Unpaid
+INV/2024/011,08/11/2024,Kartika Putri,Mouse wireless,1,250000,LUNAS
+inv-2024-012,08/12/2024,Lia Amelia,keybord mechanical,2,Rp 1.200.000,Paid
+2024/013,08/13/2024,Muhammad Ali,MONITOR LED 24 inch,1,Rp 2.500.000,lunas
+TRX-014,08/14/2024,Nadia Salsabila,Flashdisk 64GB,2,150000,Belum Lunas
+INV/2024/015,08/15/2024,Oscar Wijaya, Headset Gaming ,1,750000,Pending
+inv-2024-016,08/16/2024,Putri Ayu,Webcam HD,1,850000,LUNAS
+2024/017,08/17/2024,QORI AGUSTIN,Hardisk Eksternal 1TB,1,Rp 950.000,completed
+TRX-018,08/18/2024,Rian Ardianto,Printer All-in-One,1,3100000,Unpaid
+INV/2024/019,08/19/2024,susan susanti,Laptp Gaming,1,15.000.000,LUNAS
+INV/2024/020,08/20/2024,Taufik Hidayat,Mouse wireless,1,Rp 250.000,Paid
+inv-2024-021,08/21/2024,budi santoso,keybord mechanical,1,1200000,lunas
+2024/022,08/22/2024,SITI AMINAH,MONITOR LED 24 inch,1,Rp 2.500.000,Belum Lunas
+TRX-023,08/23/2024,"Andi Purnomo, S.Pd",Flashdisk 64GB,1,150000,Pending
+INV/2024/024,08/24/2024,DEWI LESTARI, Headset Gaming ,2,Rp 750000,LUNAS
+inv-2024-025,08/25/2024,Eko Prasetyo,Webcam HD,1,850000,completed
+2024/026,08/26/2024,Fajar Nugraha,Hardisk Eksternal 1TB,1,Rp 950.000,Unpaid
+TRX-027,08/27/2024,Grace Tan,Printer All-in-One,1,Rp 3.100.000,LUNAS
+INV/2024/028,08/28/2024,HENDRA WIJAYA,Laptp Gaming,1,15.000.000,Paid
+inv-2024-029,08/29/2024,irma sari,Mouse wireless,3,Rp 250.000,lunas
+2024/030,08/30/2024,Joko Susilo,keybord mechanical,1,1.200.000,
+INV/2024/001,08/01/2024,budi santoso,Laptp Gaming,1,Rp 15.000.000,LUNAS
+TRX-031,08/31/2024,Kartika Putri,MONITOR LED 24 inch,1,2500000,Pending
+INV/2024/032,09/01/2024,Lia Amelia,Flashdisk 64GB,2,Rp 150.000,LUNAS
+inv-2024-033,09/02/2024,Muhammad Ali, Headset Gaming ,1,750000,completed
+2024/034,09/03/2024,Nadia Salsabila,Webcam HD,1,Rp 850.000,Unpaid
+TRX-035,09/04/2024,Oscar Wijaya,Hardisk Eksternal 1TB,1,Rp 950.000,LUNAS
+INV/2024/036,09/05/2024,Putri Ayu,Printer All-in-One,1,3.100.000,Paid
+inv-2024-037,09/06/2024,Qori Agustin,Laptp Gaming,1,Rp 15.000.000,lunas
+2024/038,09/07/2024,Rian Ardianto,Mose wireless,2,250000,Belum Lunas
+TRX-039,09/08/2024,SUSAN SUSANTI,keybord mechanical,1,Rp 1.200.000,Pending
+INV/2024/040,09/09/2024,Taufik Hidayat,MONITOR LED 24 inch,1,Rp 2.500.000,LUNAS
+inv-2024-041,09/10/2024,,Flashdisk 64GB,4,150000,completed
+2024/042,09/11/2024,budi santoso, Headset Gaming ,1,750000,Unpaid
+TRX-043,09/12/2024,SITI AMINAH,Webcam HD,1,Rp 850.000,LUNAS
+INV/2024/044,09/13/2024,"Andi Purnomo, S.Pd",Hardisk Eksternal 1TB,2,Rp 950.000,Paid
+inv-2024-045,09/14/2024,dewi lestari,Printer All-in-One,1,3100000,lunas
+2024/046,09/15/2024,Eko Prasetyo,Laptp Gaming,1,15.000.000,Belum Lunas
+TRX-047,09/16/2024,Fajar Nugraha,Mouse wireless,1,Rp 250.000,Pending
+INV/2024/048,09/17/2024,grace tan,keybord mechanical,1,Rp 1.200.000,LUNAS
+inv-2024-049,09/18/2024,Hendra Wijaya,MONITOR LED 24 inch,1,2500000,completed
+2024/050,09/19/2024,irma sari,Flashdisk 64GB,3,Rp 150000,Unpaid
+inv-2024-029,08/29/2024,irma sari,Mouse wireless,3,Rp 250.000,lunas
+TRX-051,09/20/2024,Joko Susilo, Headset Gaming ,1,750000,LUNAS
+INV/2024/052,09/21/2024,KARTIKA PUTRI,Webcam HD,1,Rp 850.000,Paid
+inv-2024-053,09/22/2024,Lia Amelia,Hardisk Eksternal 1TB,1,950000,lunas
+2024/054,09/23/2024,Muhammad Ali,Printer All-in-One,1,Rp 3.100.000,Belum Lunas
+TRX-055,09/24/2024,Nadia Salsabila,Laptp Gaming,1,Rp 15.000.000,Pending
+INV/2024/056,09/25/2024,Oscar Wijaya,Mouse wireless,2,Rp 250.000,LUNAS
+inv-2024-057,09/26/2024,Putri Ayu,keybord mechanical,1,1.200.000,completed
+2024/058,09/27/2024,Qori Agustin,MONITOR LED 24 inch,1,Rp 2.500.000,
+TRX-059,09/28/2024,Rian Ardianto,Flashdisk 64GB,1,150000,LUNAS
+INV/2024/060,09/29/2024,susan susanti, Headset Gaming ,1,Rp 750000,Paid
+inv-2024-061,09/30/2024,Taufik Hidayat,Webcam HD,1,850000,lunas
+2024/062,10/01/2024,budi santoso,Hardisk Eksternal 1TB,1,Rp 950.000,Belum Lunas
+TRX-063,10/02/2024,SITI AMINAH,Printer All-in-One,1,Rp 3.100.000,Pending
+INV/2024/064,10/03/2024,"Andi Purnomo, S.Pd",Laptp Gaming,1,15000000,LUNAS
+inv-2024-065,10/04/2024,dewi lestari,mouse wireless,1,Rp 250.000,completed
+2024/066,10/05/2024,Eko Prasetyo,keybord mechanical,2,Rp 1.200.000,Unpaid
+TRX-067,10/06/2024,Fajar Nugraha,MONITOR LED 24 inch,1,2.500.000,LUNAS
+INV/2024/068,10/07/2024,grace tan,Flashdisk 64GB,2,150000,Paid
+inv-2024-069,10/08/2024,Hendra Wijaya, Headset Gaming ,1,Rp 750.000,lunas
+2024/070,10/09/2024,irma sari,Webcam HD,1,Rp 850.000,Belum Lunas
+TRX-071,10/10/2024,Joko Susilo,Hardisk Eksternal 1TB,1,950000,Pending
+INV/2024/072,10/11/2024,Kartika Putri,Printer All-in-One,1,Rp 3.100.000,LUNAS
+inv-2024-073,10/12/2024,Lia Amelia,Laptp Gaming,1,Rp 15.000.000,completed
+2024/074,10/13/2024,Muhammad Ali,Mouse wireless,1,Rp 250.000,Unpaid
+TRX-075,10/14/2024,Nadia Salsabila,keybord mechanical,1,1200000,LUNAS
+INV/2024/076,10/15/2024,OSCAR WIJAYA,MONITOR LED 24 inch,1,Rp 2.500.000,Paid
+inv-2024-077,10/16/2024,Putri Ayu,Flashdisk 64GB,5,Rp 150000,lunas
+2024/078,10/17/2024,, Headset Gaming ,1,750000,Belum Lunas
+TRX-079,10/18/2024,Qori Agustin,Webcam HD,1,850000,Pending
+inv-2024-049,09/18/2024,Hendra Wijaya,MONITOR LED 24 inch,1,2500000,completed
+INV/2024/080,10/19/2024,Rian Ardianto,Hardisk Eksternal 1TB,1,Rp 950.000,LUNAS
+inv-2024-081,10/20/2024,susan susanti,Printer All-in-One,1,Rp 3.100.000,completed
+2024/082,10/21/2024,Taufik Hidayat,Laptp Gaming,1,Rp 15.000.000,Unpaid
+TRX-083,10/22/2024,budi santoso,Mouse wireless,2,250000,LUNAS
+INV/2024/084,10/23/2024,SITI AMINAH,keyboard mechanical,1,Rp 1.200.000,Paid
+inv-2024-085,10/24/2024,"Andi Purnomo, S.Pd",MONITOR LED 24 inch,1,2500000,lunas
+2024/086,10/25/2024,dewi lestari,Flashdisk 64GB,1,Rp 150.000,Belum Lunas
+TRX-087,10/26/2024,Eko Prasetyo, Headset Gaming ,1,750000,Pending
+INV/2024/088,10/27/2024,Fajar Nugraha,Webcam HD,1,Rp 850.000,LUNAS
+inv-2024-089,10/28/2024,grace tan,Hardisk Eksternal 1TB,1,Rp 950.000,completed
+2024/090,10/29/2024,Hendra Wijaya,Printer All-in-One,1,3.100.000,Unpaid
+TRX-091,10/30/2024,irma sari,Laptp Gaming,1,Rp 15.000.000,LUNAS
+INV/2024/092,10/31/2024,Joko Susilo,Mouse wireless,1,Rp 250.000,Paid
+inv-2024-093,11/01/2024,Kartika Putri,keybord mechanical,1,1200000,lunas
+2024/094,11/02/2024,Lia Amelia,MONITOR LED 24 inch,1,Rp 2.500.000,
+TRX-095,11/03/2024,Muhammad Ali,Flashdisk 64GB,2,150000,Pending
+INV/2024/096,11/04/2024,Nadia Salsabila, Headset Gaming ,1,750000,LUNAS
+inv-2024-097,11/05/2024,Oscar Wijaya,Webcam HD,1,Rp 850.000,completed
+2024/098,11/06/2024,Putri Ayu,Hardisk Eksternal 1TB,1,Rp 950.000,Unpaid
+TRX-099,11/07/2024,Qori Agustin,Printer All-in-One,1,Rp 3.100.000,LUNAS
+INV/2024/100,11/08/2024,Rian Ardianto,Laptp Gaming,1,15.000.000,Paid

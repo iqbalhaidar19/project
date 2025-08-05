@@ -1,0 +1,17 @@
+# Python virtual environment folder
+venv/
+.venv/
+
+# Python cache folder
+__pycache__/
+*.pyc
+
+# Output file
+*.xlsx
+*.xls
+
+# VS Code configuration file
+.vscode/
+
+# Operating system files
+.DS_Store

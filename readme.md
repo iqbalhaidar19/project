@@ -48,19 +48,19 @@ Here's how to run this project on your local computer.
  ```
 
 2.  **Create and activate a virtual environment:**
- # Create venv
+   ***Create venv***
  ```bash
  python -m venv venv
 ```
- # If an error appears about Execution Policy
+   ***If an error appears about Execution Policy***
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 ```
- # Activate on Windows
+   ***Activate on Windows***
 ```bash
 .\venv\Scripts\activate
 ```
-# Activate on macOS/Linux
+   ***Activate on macOS/Linux***
 ```bash
 source venv/bin/activate
 ```

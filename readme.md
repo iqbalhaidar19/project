@@ -21,12 +21,18 @@ This project demonstrates the ability to clean, process, and analyze data using 
 ## Project Folder Structure
 
 .
-├── .gitignore              # File untuk mengabaikan file/folder yang tidak perlu
-├── README.md               # File yang sedang Anda baca ini
-├── data_processing_script.py # Script utama Python
-├── product_categories.csv    # Data master kategori produk
-├── raw_sales_data.csv      # Data mentah penjualan yang berantakan
-└── requirements.txt        # Daftar library Python yang dibutuhkan
+├── .gitignore 
+# File to ignore unnecessary files/folders
+├── README.md 
+# File you are currently reading this
+├── data_processing_script.py 
+# Python main script
+├── product_categories.csv 
+# Product category master data
+├── raw_sales_data.csv 
+# Messy raw sales data
+└── requirements.txt 
+# List of required Python libraries
 
 ---
 
